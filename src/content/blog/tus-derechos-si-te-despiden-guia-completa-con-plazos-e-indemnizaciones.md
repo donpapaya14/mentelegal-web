@@ -2,7 +2,7 @@
 title: "Tus Derechos si te Despiden: Guia Completa con Plazos e Indemnizaciones"
 description: "Todo lo que necesitas saber si te despiden: tipos de despido, indemnizaciones, plazos para reclamar y pasos concretos."
 pubDate: 2026-04-26
-image: "https://images.pexels.com/photos/35977848/pexels-photo-35977848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35977848/pexels-photo-35977848.jpeg"
 imageAlt: "Trung Son Co Tu Pagoda on a sunny hillside, showcasing traditional architecture and vibrant natural "
 category: "laboral"
 tags: ["despido", "derechos laborales", "indemnizacion", "Estatuto Trabajadores"]
