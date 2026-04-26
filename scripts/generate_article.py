@@ -35,7 +35,7 @@ CATEGORY_NAMES = {
 }
 
 # Amazon affiliate tag — CAMBIAR cuando tengas tu tag real
-AMAZON_TAG = os.getenv("AMAZON_TAG", "mentelegal-21")
+AMAZON_TAG = os.getenv("AMAZON_TAG", "vladys-21")
 SITE_URL = os.getenv("SITE_URL", "https://mentelegal-web.vercel.app")
 BRAND = os.getenv("BRAND", "MenteLegal")
 
