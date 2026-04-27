@@ -1,8 +1,7 @@
 name: Generate SEO Articles
 
 on:
-  schedule:
-    - cron: '30 7 * * *'
+  # schedule: DESACTIVADO
   workflow_dispatch:
     inputs:
       count:
